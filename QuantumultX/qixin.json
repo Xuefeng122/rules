@@ -1,13 +1,14 @@
 {
     "name":"奇心脚本合集",
     "description":"电报频道 @qixinscience",
-    "UpdateTime" : "2021-07-15",
+    "UpdateTime" : "2021-07-25",
     "Author" : "Stanger",
     "navigation" : "https://qxnav.com",
     "Description" : "奇心科技 - 创造不一样的科技平台！",
     "Image" : "https://qxzy.top/images/logo.png",
     "task":[
         "* * * * 1/1 ? https://raw.githubusercontent.com/zwf234/rules/master/js/jd_Delck.js, tag=清除京东ck, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
+        "0 8 * * * https://raw.githubusercontent.com/NobyDa/Script/master/Bahamut/BahamutDailyBonus.js, tag=巴哈姆特签到, img-url=https://qxzy.top/rules/QuantumultX/img/bahamutGame.png",
         "0 0 0,5,9,14,20 * * ? https://qxzy.top/rules/QuantumultX/js/zwf234/jx_hotballoon.js, tag=财富岛热气球, img-url=https://qxzy.top/rules/QuantumultX/img/jxcfd.png, enabled=true",
         "0 0 0/1 * * ?  https://qxzy.top/rules/QuantumultX/js/zwf234/jx_cfd.js, tag=京喜财富岛, img-url=https://qxzy.top/rules/QuantumultX/img/jxcfd.png, enabled=true",
         "30 6 * * * https://raw.githubusercontent.com/shufflewzc/faker2/main/jd_goodMorning.js, tag=早起福利, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
@@ -385,7 +386,6 @@
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/qimao/qmnovel.js, tag=七猫小说, img-url=https://qxzy.top/rules/QuantumultX/img/qimao.png, enabled=true",
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/qmkg/qmkg.js, tag=全民K歌, img-url=https://qxzy.top/rules/QuantumultX/img/qmkg.png, enabled=true",
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/qqmusic/qqmusic.js, tag=QQ音乐, img-url=https://qxzy.top/rules/QuantumultX/img/qqmusic.png, enabled=true",
-        "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/qtt/qtt.js, tag=趣头条, img-url=https://qxzy.top/rules/QuantumultX/img/qtt.png, enabled=true",
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/qunar/qunar.js, tag=去哪儿, img-url=https://qxzy.top/rules/QuantumultX/img/qunar.png, enabled=true",
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/rrtv/rrtv.js, tag=人人视频, img-url=https://qxzy.top/rules/QuantumultX/img/rrtv.png, enabled=true",
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/sfexpress/sfexpress.js, tag=顺丰速运, img-url=https://qxzy.top/rules/QuantumultX/img/sfexpress.png, enabled=true",
