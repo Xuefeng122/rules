@@ -1,0 +1,9 @@
+# NAME: redotpay
+# AUTHOR: talang
+# UPDATED: 2024-12-083 06:47:55
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+payload:
+  - DOMAIN-KEYWORD,redotpay
+  - DOMAIN-SUFFIX,zendesk.com
+  - DOMAIN-SUFFIX,redotpay.com
